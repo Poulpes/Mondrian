@@ -1,0 +1,7 @@
+.square {
+  border: 5px solid black;
+  display: grid;
+  grid-template-columns: 50px 50px 50px 50px 50px 50px 50px 50px;
+  grid-template-rows: 50px 50px 50px 50px 50px 50px 50px 50px;
+  width: 400px;
+}
