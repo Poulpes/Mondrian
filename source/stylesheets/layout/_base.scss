@@ -1,5 +1,6 @@
 body {
   font-family: $base-font;
+  margin: 0;
 }
 
 .red {
@@ -17,4 +18,13 @@ body {
 
 .bordered {
   border: 3px solid black;
+}
+
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: aliceblue;
 }
